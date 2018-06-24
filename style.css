@@ -24,7 +24,7 @@ header.startup {
   background-image: url("images/bg.jpeg");
   background-size: cover;
   height: 100%;
-  
+  display: flex;
 }
 
 header.startup hr {
